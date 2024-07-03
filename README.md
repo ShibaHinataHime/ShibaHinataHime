@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShibaHinataHime
-- 👀 I’m interested in Archery, Gardening, 
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Archery, Gardening, Data and Gaming
+- 🌱 I’m currently learning Python and inferential statistics
+- 💞️ I’m looking to collaborate on Data Analysis and Data Scientist projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a Shiba Inu
 
